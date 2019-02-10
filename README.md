@@ -1,2 +1,2 @@
-# mywebsite
+# Love, Astrology
 Remote repo
